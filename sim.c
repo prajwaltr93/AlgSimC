@@ -33,6 +33,7 @@ void AlgSimC(int from,int to,int interval)
 	}
 	printf("Test Complete . Plotting Graph : \n");
 	printf("Given Cordinates:\n");
+	//Fix This :)
 	PrintArrayInt(x,ArraySizeInt(x));//passing array to PrintArray() in array.c
 	PrintArrayFloat(z,ArraySizeFloat(z));
 
